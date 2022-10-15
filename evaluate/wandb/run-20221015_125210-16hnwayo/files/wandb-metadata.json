@@ -1,0 +1,27 @@
+{
+    "os": "Linux-5.10.16.3-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.10.6",
+    "heartbeatAt": "2022-10-15T10:52:10.807801",
+    "startedAt": "2022-10-15T10:52:10.272289",
+    "docker": null,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--model_export",
+        "model_export:latest",
+        "--test_data",
+        "data_test.csv:latest"
+    ],
+    "state": "running",
+    "program": "/home/pruanju/udacity/MLDevOps/Workflows-Reproducibles/5-Deploy-Release-FinalPipeline/genre_classification/evaluate/run.py",
+    "codePath": "evaluate/run.py",
+    "git": {
+        "remote": "https://github.com/pruanju/genre_classification.git",
+        "commit": "0746456b6431ab0fcad155464f0de82ecd9d202c"
+    },
+    "email": "pruanju@gmail.com",
+    "root": "/home/pruanju/udacity/MLDevOps/Workflows-Reproducibles/5-Deploy-Release-FinalPipeline/genre_classification",
+    "host": "PCPQOSNOSEV067",
+    "username": "pruanju",
+    "executable": "/home/pruanju/miniconda3/envs/mlflow-776d099cbcb71b9c8efd3e16ef2e7e92c21b5498/bin/python"
+}

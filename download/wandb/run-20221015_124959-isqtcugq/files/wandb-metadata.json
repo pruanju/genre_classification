@@ -1,0 +1,31 @@
+{
+    "os": "Linux-5.10.16.3-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.10.6",
+    "heartbeatAt": "2022-10-15T10:50:00.151998",
+    "startedAt": "2022-10-15T10:49:59.560505",
+    "docker": null,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "/home/pruanju/udacity/MLDevOps/Workflows-Reproducibles/5-Deploy-Release-FinalPipeline/genre_classification/download/download_data.py",
+    "codePath": "download/download_data.py",
+    "git": {
+        "remote": "https://github.com/pruanju/genre_classification.git",
+        "commit": "0746456b6431ab0fcad155464f0de82ecd9d202c"
+    },
+    "email": "pruanju@gmail.com",
+    "root": "/home/pruanju/udacity/MLDevOps/Workflows-Reproducibles/5-Deploy-Release-FinalPipeline/genre_classification",
+    "host": "PCPQOSNOSEV067",
+    "username": "pruanju",
+    "executable": "/home/pruanju/miniconda3/envs/mlflow-2aab5b9f736a43aa714c841b66e45252b3656ee0/bin/python"
+}

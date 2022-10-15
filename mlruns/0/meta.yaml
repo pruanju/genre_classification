@@ -1,0 +1,6 @@
+artifact_location: file:///home/pruanju/udacity/MLDevOps/Workflows-Reproducibles/5-Deploy-Release-FinalPipeline/genre_classification/mlruns/0
+creation_time: 1665830525688
+experiment_id: '0'
+last_update_time: 1665830525688
+lifecycle_stage: active
+name: Default

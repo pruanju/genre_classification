@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pruanju/udacity/MLDevOps/Workflows-Reproducibles/5-Deploy-Release-FinalPipeline/genre_classification/mlruns/0/ea8fb9884796465f9a2104a9c6f0591c/artifacts
+end_time: 1665831140893
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: ea8fb9884796465f9a2104a9c6f0591c
+run_uuid: ea8fb9884796465f9a2104a9c6f0591c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1665830996107
+status: 3
+tags: []
+user_id: pruanju
